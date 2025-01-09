@@ -13,7 +13,7 @@ layout: default
     byteMAL, but especially PhD candidates, post-docs, and students (master’s and bachelor’s).</p>
     <p>We aim to vitalize communication amongst researchers from the Netherlands, Belgium, and Germany. 
     ByteMAL has been hosted alternately by the Universities of Maastricht, Aachen, and
-    Liege and for this 7th anniversary event on <a href="/bytemal-2025/program">April 24</a>, byteMAL returns to <a href="/bytemal-2025/venue">Maastricht</a>!</p>
+    Liège. For its 8th anniversary event on <a href="/bytemal-2024/program">April 14</a>, a new University will add to this list and the conference will be hosted for the first time in <a href="/bytemal-2024/venue">Leuven</a>!</p>
     <p>As researchers in related fields in neighboring regions we are excited to widen our perspectives by creating the opportunity to discuss methods, 
     tools, challenges and successes with people of similar mindset. 
     Participants will have the opportunity to be inspired by our interesting <a href="/bytemal-2025/speakers">keynote speakers</a>, 

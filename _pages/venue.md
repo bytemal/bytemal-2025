@@ -12,12 +12,12 @@ carousels:
   <div class="col-sm-12 px-3">
 	  <div class="jumbotron p-5" style="text-align:left; font-size:18px">
 		  <h2><b>The byteMAL venue</b></h2>
-		  <p> This year's conference will be held at Maastricht University:
+		  <p> This year's conference will be held at Leuven University:
 		  <ul>
-			  <li>B0.001</li>
-			  <li>Paul Henri Spaaklaan 1</li>
-			  <li>6229 EN Maastricht</li>
-			  <li>The Netherlands</li>
+			  <li>ON5 - Building number: 404-28</li>
+			  <li>Herestraat 49</li>
+			  <li>3000 Leuven</li>
+			  <li>Belgium</li>
 		  </ul>
 	          </p>
 		  <hr>
@@ -31,10 +31,7 @@ carousels:
       <h5 class="card-title">Bus</h5>
       <p class="card-text" style = "text-align: justify"> From the following bus stops it is a less than 5 minutes walk to the venue:
 	      <ul style = "text-align: left">
-		      <li>Maastricht, Endepolsdomein</li>
-		      <li>Maastricht, Forum MECC</li>
-		      <li>Maastricht, Station Randwyck</li>
-		      
+		      <li>Bus stops</li>
 	      </ul>
        </p>
     </div>
@@ -43,14 +40,14 @@ carousels:
     <img src="/bytemal-2025/images/Icons/train-icon.png" class="card-img-top px-4 py-1" alt="train-icon">
     <div class="card-body">
       <h5 class="card-title">Train</h5>
-      <p class="card-text" style = "text-align: justify"> From the <b>station Maastricht Randwyck</b> it is a short walk to the venue.</p>
+      <p class="card-text" style = "text-align: justify"> From the <b>Leuven main station</b>, bus are accessible with a 20min trip to the campus.</p>
     </div>
   </div>
   <div class="card">
     <img src="/bytemal-2025/images/Icons/car-icon.png" class="card-img-top px-4 py-1" alt="car-icon">
     <div class="card-body">
       <h5 class="card-title">Car</h5>
-      <p class="card-text" style = "text-align: justify">You can park your car for free at <a href="https://www.maastrichtbereikbaar.nl/en/info-for-travellers/car/parking-in-maastricht/free-parking-at-pr-noord/">Maastricht Noord P&R</a> from which you can take the bus (bus 10 to Maastricht, Forum MECC) or train (stoptrein to Maastricht Randwyck) to the venue.</p>
+      <p class="card-text" style = "text-align: justify">You can park your car at <a href="https://www.uzleuven.be/en/contact/gasthuisberg/parking-gasthuisberg-campus#parking-west">Gasthuisberg Campus - Parking West</a> and walk to the venue.</p>
     </div>
   </div>
 </div>
