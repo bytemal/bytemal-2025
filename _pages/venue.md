@@ -19,7 +19,7 @@ carousels:
 			  <li>3000 Leuven</li>
 			  <li>Belgium</li>
 		  </ul>
-	          </p>
+	    </p>
 		  <hr>
 		  {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 	  </div>
