@@ -14,7 +14,7 @@ carousels:
 		  <h2><b>The byteMAL venue</b></h2>
 		  <p> This year's conference will be held at Leuven University:
 		  <ul>
-			  <li>ON5 - Building number: 404-28</li>
+			  <li><a href="https://www.kuleuven.be/kulag/en/gebouw/404-28">ON5</a> - Building number: 404-28</li>
 			  <li>Herestraat 49</li>
 			  <li>3000 Leuven</li>
 			  <li>Belgium</li>
