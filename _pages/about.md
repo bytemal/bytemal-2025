@@ -9,16 +9,9 @@ layout: default
   <div class="col-sm-12 px-3" style="text-align: justify">
   <h2 id="about-the-bytemal-conference"><b>About byteMAL</b></h2>
   <p><strong>ByteMAL</strong> is a conference created by and for early-career researchers in the fields of bioinformatics and systems biomedicine, 
-  and aims to provide a networking platform for knowledge and expertise exchange across borders. 
-  All are welcome to <a href="/bytemal-2025/register">attend and present</a> at
-  byteMAL, but especially PhD candidates, post-docs, and students (master’s and bachelor’s).</p>
-  <p>We aim to vitalize communication amongst researchers from the Netherlands, Belgium, and Germany. 
-  ByteMAL has been hosted alternately by the Universities of Maastricht, Aachen, and
-  Liège. For its 8th anniversary event on <a href="/bytemal-2024/program">April 14</a>, a new University will add to this list and the conference will be hosted for the first time in <a href="/bytemal-2024/venue">Leuven</a>!</p>
-  <p>As researchers in related fields in neighboring regions we are excited to widen our perspectives by creating the opportunity to discuss methods, 
-  tools, challenges and successes with people of similar mindset. 
-  Participants will have the opportunity to be inspired by our interesting <a href="/bytemal-2025/speakers">keynote speakers</a>, 
-  present their own work, and discuss ideas, tools and approaches with each other.</p>
+  and aims to provide a networking platform for knowledge and expertise exchange across borders. All are welcome to <a href="/bytemal-2025/register">attend and present</a> at byteMAL, but especially PhD candidates, post-docs, and students (master’s and bachelor’s).</p>
+  <p>We aim to vitalize communication amongst researchers from the Netherlands, Belgium, and Germany. ByteMAL has been hosted alternately by the Universities of Maastricht, Aachen, and Liège. For its 8th anniversary event on <a href="/bytemal-2024/program">April 14</a>, a new University will add to this list and the conference will be hosted for the first time in <a href="/bytemal-2024/venue">Leuven</a>!</p>
+  <p>As researchers in related fields in neighboring regions we are excited to widen our perspectives by creating the opportunity to discuss methods, tools, challenges and successes with people of similar mindset. Participants will have the opportunity to be inspired by our interesting <a href="/bytemal-2025/speakers">keynote speakers</a>, present their own work, and discuss ideas, tools and approaches with each other.</p>
 
   <br>
   <p style="text-align: justify">
@@ -27,21 +20,24 @@ layout: default
   </p>
 
   <br>
-  <p style="text-align: center;">
-    <h2><b>Participating universities</b></h2> <br>
-  </p>
-  <p style="text-align: center;">
-    <img src="/bytemal-2025/images/Institutions/UM_logo.png" alt="UM logo" style="height:100px;max-height:100%;width:auto;vertical-align:middle;">
-  </p>
-  <p style="text-align: center;">
-    <img src="/bytemal-2025/images/Institutions/RWTH_logo.png" alt="UM logo" style="height:100px;max-height:100%;width:auto;vertical-align:middle;">
-  </p>
-  <p style="text-align: center;">
-    <img src="/bytemal-2025/images/Institutions/UL_logo.png" alt="UM logo" style="height:100px;max-height:100%;width:auto;vertical-align:middle;">
-  </p>
-  <p style="text-align: center;">
-    <img src="/bytemal-2025/images/Institutions/KUL_logo.png" alt="UM logo" style="height:100px;max-height:100%;width:auto;vertical-align:middle;">
-  </p>
+  <h2 class="text-center"><b>Participating Universities</b></h2> 
+  <br>
+  
+  <div class="container">
+    <div class="row text-center justify-content-center">
+      <div class="col-6 col-md-6 my-3">
+        <img src="/bytemal-2025/images/Institutions/UM_logo.png" alt="UM logo" class="img-fluid" style="max-height:100px;">
+      </div>
+      <div class="col-6 col-md-6 my-3">
+        <img src="/bytemal-2025/images/Institutions/RWTH_logo.png" alt="RWTH logo" class="img-fluid" style="max-height:100px;">
+      </div>
+      <div class="col-6 col-md-6 my-3">
+        <img src="/bytemal-2025/images/Institutions/UL_logo.png" alt="UL logo" class="img-fluid" style="max-height:100px;">
+      </div>
+      <div class="col-6 col-md-6 my-3">
+        <img src="/bytemal-2025/images/Institutions/KUL_logo.png" alt="KUL logo" class="img-fluid" style="max-height:100px;">
+      </div>
+    </div>
   </div>
   
 </div>
