@@ -10,7 +10,7 @@ layout:    default
 
   <div class="row no-gutters">
     <div class="col-md-4" style="display:flex;align-items:center;">
-      <img src="/images/Speakers/joana_pereira.png" class="card-img rounded-lg" alt="Speaker 1">
+      <img src="/bytemal-2025/images/Speakers/joana_pereira.png" class="card-img rounded-lg" alt="Speaker 1">
     </div>
     <div class="col-md-8">
       <div class="card-body">
@@ -26,7 +26,7 @@ layout:    default
 
   <div class="row no-gutters">
     <div class="col-md-4" style="display:flex;align-items:center;">
-      <img src="/images/Speakers/default_speaker_picture.png" class="card-img rounded-lg" alt="Speaker 1">
+      <img src="/bytemal-2025/images/Speakers/default_speaker_picture.png" class="card-img rounded-lg" alt="Speaker 1">
     </div>
     <div class="col-md-8">
       <div class="card-body">
