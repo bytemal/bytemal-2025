@@ -4,9 +4,8 @@ permalink: /venue
 layout: default
 carousels:
   - images: 
-    - image: /bytemal-2025/images/location/location.jpg
-    - image: /bytemal-2025/images/location/location2.jpg
-    - image: /bytemal-2025/images/location/location3.jpg
+    - image: /bytemal-2025/images/location/location1.jpg
+    - image: /bytemal-2025/images/location/location2.png
 ---
 
   <div class="col-sm-12 px-3">
@@ -31,7 +30,8 @@ carousels:
       <h5 class="card-title">Bus</h5>
       <p class="card-text" style = "text-align: justify"> From the following bus stops it is a less than 5 minutes walk to the venue:
 	      <ul style = "text-align: left">
-		      <li>Bus stops</li>
+		      <li>Leuven Gasthuisberg Campus, then follow the blue street.</li>
+          <li>Leuven Gasthuisberg Kliniek</li>
 	      </ul>
        </p>
     </div>
@@ -47,7 +47,7 @@ carousels:
     <img src="/bytemal-2025/images/Icons/car-icon.png" class="card-img-top px-4 py-1" alt="car-icon">
     <div class="card-body">
       <h5 class="card-title">Car</h5>
-      <p class="card-text" style = "text-align: justify">You can park your car at <a href="https://www.uzleuven.be/en/contact/gasthuisberg/parking-gasthuisberg-campus#parking-west">Gasthuisberg Campus - Parking West</a> and walk to the venue.</p>
+      <p class="card-text" style = "text-align: justify">You can park your car at the pay parking <a href="https://www.uzleuven.be/en/contact/gasthuisberg/parking-gasthuisberg-campus#parking-west">Gasthuisberg Campus - Parking West</a> and walk to the venue.</p>
     </div>
   </div>
 </div>
