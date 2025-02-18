@@ -9,7 +9,8 @@ layout:    default
     <h2><b>Registration</b></h2>
     <p style = "font-size: 18px">Please click on the button below to <b>register for byteMAL 2025</b>. In case you would like to cancel your registration, please let us know via email: <a href = "mailto:byteMALevents@gmail.com">byteMALevents@gmail.com</a></p>
     <!-- <p style = "font-size: 20px"><i>Please note that the registration deadline has passed!</i></p> -->
-    <a class="btn btn-primary btn-lg my-3" href="/bytemal-2025/RegistrationError" target="_blank" role="button">Register here</a>
+    <!-- <a class="btn btn-primary btn-lg my-3" href="/bytemal-2025/RegistrationError" target="_blank" role="button">Register here</a> -->
+	<a class="btn btn-primary btn-lg my-3" href="https://docs.google.com/forms/d/e/1FAIpQLSedbGMhdt9VmbJxuQfEOYDRFIbWtipn2lr6NsVhcmqupSzNMA/viewform?usp=header" target="_blank" role="button">Register here</a>
   </div>
 </div>
 
