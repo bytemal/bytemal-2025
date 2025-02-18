@@ -24,6 +24,10 @@ layout:    default
     </div>
   </div>
 
+</div>
+
+<div class="card mb-3" style="max-width: 960px;">
+
   <div class="row no-gutters">
     <div class="col-md-4" style="display:flex;align-items:center;">
       <img src="/bytemal-2025/images/Speakers/default_speaker_picture.png" class="card-img rounded-lg" alt="Speaker 1">
