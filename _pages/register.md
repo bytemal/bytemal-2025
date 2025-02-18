@@ -30,7 +30,7 @@ layout:    default
 		  <p style="font-size: 30px"><b>Abstract guidelines</b></p>
 		  <p style="font-size: 18px">
 			  - Include title, authors, and abstract <br>
-			  - Max. 300 words (excl. title and authors)
+			  - Max. 300 words (excl. title, authors and references)
 		  </p>
 	  </div>
   </div>
@@ -50,7 +50,7 @@ layout:    default
 		  <p style="font-size: 30px"><b>Presentation guidelines</b></p>
 		  <p style="font-size: 18px">
 			  - 12 minute presentation <br>
-			  - 5 minutes Q&A
+			  - 3 minutes Q&A
 		  </p>
 	  </div>
 </div>
