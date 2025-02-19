@@ -30,7 +30,7 @@ layout:    default
 		  <p style="font-size: 30px"><b>Abstract guidelines</b></p>
 		  <p style="font-size: 18px">
 			  - Include title, authors, and abstract <br>
-			  - Max. 300 words (excl. title, authors and references)
+			  - Max. 300 words (excl. title, authors, and references)
 		  </p>
 	  </div>
   </div>
