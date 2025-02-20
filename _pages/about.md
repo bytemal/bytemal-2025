@@ -18,27 +18,6 @@ layout: default
     <h2><b>Contact</b></h2>
     If you have any questions, feel free to contact us via e-mail: <a href = "mailto:byteMALevents@gmail.com">byteMALevents@gmail.com</a>. You can also check our <a href="https://bytemal.github.io/">main website</a> for general information and links to previous editions of the conference.
   </p>
-
-  <br>
-  <h2 class="text-center"><b>Participating Universities</b></h2> 
-  <br>
-  
-  <div class="container">
-    <div class="row text-center justify-content-center">
-      <div class="col-6 col-md-6 my-3">
-        <img src="/bytemal-2025/images/Institutions/UM_logo.png" alt="UM logo" class="img-fluid" style="max-height:100px;">
-      </div>
-      <div class="col-6 col-md-6 my-3">
-        <img src="/bytemal-2025/images/Institutions/RWTH_logo.png" alt="RWTH logo" class="img-fluid" style="max-height:100px;">
-      </div>
-      <div class="col-6 col-md-6 my-3">
-        <img src="/bytemal-2025/images/Institutions/UL_logo.png" alt="UL logo" class="img-fluid" style="max-height:100px;">
-      </div>
-      <div class="col-6 col-md-6 my-3">
-        <img src="/bytemal-2025/images/Institutions/KUL_logo.png" alt="KUL logo" class="img-fluid" style="max-height:100px;">
-      </div>
-    </div>
-  </div>
   
 </div>
   
