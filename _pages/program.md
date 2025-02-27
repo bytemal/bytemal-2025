@@ -16,7 +16,7 @@ layout:    default
 | 11:30 – 13:00 | PhD presentations |
 | 13:00 – 13:30 | Lunch break |
 | 13:30 – 14:30 | Poster event |
-| 14:30 – 15:30 | Keynote Presentation: TBA |
+| 14:30 – 15:30 | Keynote Presentation: Raphaëlle Lesage |
 | 15:30 – 16:30 | Panel discussion |
 | 16:30 – 16:45 | Prize-giving and closing |
 | 16:45 – ... | Drinks |

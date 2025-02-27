@@ -30,15 +30,14 @@ layout:    default
 
   <div class="row no-gutters">
     <div class="col-md-4" style="display:flex;align-items:center;">
-      <img src="/bytemal-2025/images/Speakers/default_speaker_picture.png" class="card-img rounded-lg" alt="Speaker 1">
+      <img src="/bytemal-2025/images/Speakers/raphaelle_lesage.jpg" class="card-img rounded-lg" alt="Speaker 1">
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Speaker to be announced soon</h5>
-        <!-- <h5 class="card-title">Speaker name</h5> -->
-        <!-- <p class="card-text font-weight-bold">Position</p> -->
-        <!-- <p class="card-text">Short description</p> -->
-        <!-- <button type="button" class="btn btn-outline-primary btn-sm"><a href="">Website</a></button> -->
+        <h5 class="card-title">Raphaëlle Lesage</h5>
+        <p class="card-text font-weight-bold">Scientist - Systems Pharmacology consultant at ESQlabs GmbH</p>
+        <p class="card-text"> </p>
+        <button type="button" class="btn btn-outline-primary btn-sm"><a href="https://esqlabs.com/">ESQlabs</a></button>
       </div>
     </div>
   </div>
