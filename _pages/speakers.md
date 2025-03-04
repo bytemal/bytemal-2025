@@ -30,13 +30,15 @@ layout:    default
 
   <div class="row no-gutters">
     <div class="col-md-4" style="display:flex;align-items:center;">
-      <img src="/bytemal-2025/images/Speakers/raphaelle_lesage.jpg" class="card-img rounded-lg" alt="Speaker 1">
+      <img src="/bytemal-2025/images/Speakers/Raphaelle_Lesage.jpg" class="card-img rounded-lg" alt="Speaker 1">
     </div>
     <div class="col-md-8">
       <div class="card-body">
         <h5 class="card-title">Raphaëlle Lesage</h5>
         <p class="card-text font-weight-bold">Scientist - Systems Pharmacology consultant at ESQlabs GmbH</p>
-        <p class="card-text"> </p>
+        <p class="card-text">Raphaëlle Lesage, PhD is a scientist in Systems Pharmacology at ESQlabs, where she specializes in Physiologically Based Pharmacokinetic (PBPK) and Quantitative Systems Pharmacology (QSP) modelling to support drug development. She is particularly interested in modelling special populations to optimize therapeutic strategies and prevent unsafe exposure.
+        <br>
+        Previously, she served as Chief Scientific Officer at the Virtual Physiological Human Institute (VPHi), where she led stakeholder engagement and regulatory initiatives for in silico medicine, contributing to multiple European H2020 projects. She holds an interdisciplinary PhD in Engineering and Biomedical Sciences from KU Leuven, where she conducted research on in silico modelling of osteochondral pathophysiology. In particular she developed a systems biology virtual chondrocyte to identify potential drug targets limiting cartilage degeneration or promote bone formation.</p>
         <button type="button" class="btn btn-outline-primary btn-sm"><a href="https://esqlabs.com/">ESQlabs</a></button>
       </div>
     </div>
