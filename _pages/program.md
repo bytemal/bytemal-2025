@@ -17,7 +17,7 @@ layout:    default
 | 13:00 – 13:30 | Lunch break |
 | 13:30 – 14:30 | Poster event |
 | 14:30 – 15:30 | Keynote Presentation: **Raphaëlle Lesage** |
-| 15:30 – 16:30 | Panel discussion: **Translating research from the lab to the real world** <br> Panel members: Prof. Joana Pereira (KU Leuven), Dr. Raphaëlle Lesage (ESQlabs GmbH), Dr. Bernard Staumont (ULiège), Dr. Janaki Raman (VPHi institute) |
+| 15:30 – 16:30 | Panel discussion: **Translating research from the lab to the real world** <br> Panel members: Prof. Joana Pereira (KU Leuven), Dr. Raphaëlle Lesage (ESQlabs GmbH), <br> Dr. Bernard Staumont (ULiège), Dr. Janaki Raman (VPHi institute) |
 | 16:30 – 16:45 | Prize-giving and closing |
 | 16:45 – ... | Drinks |
 {:.table-bordered .table-hover .my-4}
