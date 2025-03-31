@@ -14,7 +14,7 @@ layout:    default
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Joana Pereira</h5>
+        <h5 class="card-title">Prof. Joana Pereira</h5>
         <p class="card-text font-weight-bold">VIB Group leader and KU Leuven assistant professor</p>
         <p class="card-text">Joana Pereira is an expert in computational structural biology and protein evolution, with a focus on structural bioinformatics. She is a biochemist with a doctorate in Chemistry from the University of Hamburg and the European Molecular Biology Laboratory. She has over 7 years of postdoctoral experience in protein evolution and structural bioinformatics, having worked at both the Max Planck Institute for Developmental Biology in Tübingen (Germany) and the Biozentrum of the University of Basel (Switzerland). 
         <br>
@@ -34,7 +34,7 @@ layout:    default
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Raphaëlle Lesage</h5>
+        <h5 class="card-title">Dr. Raphaëlle Lesage</h5>
         <p class="card-text font-weight-bold">Scientist - Systems Pharmacology consultant at ESQlabs GmbH</p>
         <p class="card-text">Raphaëlle Lesage, PhD is a scientist in Systems Pharmacology at ESQlabs, where she specializes in Physiologically Based Pharmacokinetic (PBPK) and Quantitative Systems Pharmacology (QSP) modelling to support drug development. She is particularly interested in modelling special populations to optimize therapeutic strategies and prevent unsafe exposure.
         <br>
