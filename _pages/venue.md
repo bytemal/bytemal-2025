@@ -48,7 +48,7 @@ carousels:
     <img src="/bytemal-2025/images/Icons/car-icon.png" class="card-img-top px-4 py-1" alt="car-icon">
     <div class="card-body">
       <h5 class="card-title">Car</h5>
-      <p class="card-text" style = "text-align: justify">You can park your car at the pay parking <a href="https://www.uzleuven.be/en/contact/gasthuisberg/parking-gasthuisberg-campus#parking-west">Gasthuisberg Campus - Parking West</a> and walk to the venue.</p>
+      <p class="card-text" style = "text-align: justify">You can park your car at the pay parking <a href="https://www.uzleuven.be/en/contact/gasthuisberg/parking-gasthuisberg-campus#parking-west">Gasthuisberg Campus - Parking West</a> and walk to the venue. Pay attention that payment can <b>only</b> be made using a Belgian debit card or cash - unfortunately, credit cards or foreign bank cards are not accepted.</p>
     </div>
   </div>
 </div>
