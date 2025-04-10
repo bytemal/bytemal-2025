@@ -25,30 +25,44 @@ carousels:
 	  </div>
 	  
 <div class="card-deck text-center">
-  <div class="card">
-    <img src="/bytemal-2025/images/Icons/bus-icon.png" class="card-img-top px-4 py-1" alt="bus-icon">
-    <div class="card-body">
-      <h5 class="card-title">Bus</h5>
-      <p class="card-text" style = "text-align: justify"> From the following bus stops it is a less than 5 minutes walk to the venue:
-	      <ul style = "text-align: left">
-		      <li>Leuven Gasthuisberg Campus, then follow the blue street.</li>
-          <li>Leuven Gasthuisberg Kliniek</li>
-	      </ul>
-       </p>
-    </div>
-  </div>
+
   <div class="card">
     <img src="/bytemal-2025/images/Icons/train-icon.png" class="card-img-top px-4 py-1" alt="train-icon">
     <div class="card-body">
       <h5 class="card-title">Train</h5>
-      <p class="card-text" style = "text-align: justify"> From the <b>Leuven main station</b>, bus are accessible with a 20min trip to the campus.</p>
+      <p class="card-text" style = "text-align: justify">The main train station is <b>Leuven station</b>, buses are accessible with a 20 min trip to the venue.</p>
     </div>
   </div>
+
+
+  <div class="card">
+    <img src="/bytemal-2025/images/Icons/bus-icon.png" class="card-img-top px-4 py-1" alt="bus-icon">
+    <div class="card-body">
+      <h5 class="card-title">Bus</h5>
+      <p class="card-text" style = "text-align: justify"><b>Recommended</b> way to reach the venue by bus:
+      <ul style = "text-align: left">
+        <li>Exiting the train station Leuven Station, take the bus <b>43 - Leuven Gasthuisberg Campus</b> at Perron 2, ~ 20 min ride (see schedule above).</li>
+        <li>Stop at <b>Gasthuisberg Campus</b> (last stop), not Gasthuisberg Kliniek.</li>
+        <li>Stepping out of the bus, go up hills, climb the stairs on your left.</li>
+        <li>Follow <b>"Blauwe Straat"</b> until reaching gate number 10, ~ 5 min walk.</li>
+	    </ul>
+      </p>
+      <p class="card-text" style = "text-align: justify">If you stop at Gasthuisberg Kliniek:
+      <ul style = "text-align: left">
+        <li>Follow "Ziekenhuis ingang" until reaching the "Toegang Oost" entrance.</li>
+        <li>Enter the hospital and then follow the "Rode/Blauwe Straat" always straight on until exiting the hospital.</li>
+        <li>Turn right and climb the 2 blocks of stairs (“Blauwe Straat”), the entrance of ON5 will be on your left.</li>
+	    </ul>
+      </p>
+    </div>
+  </div>
+  
   <div class="card">
     <img src="/bytemal-2025/images/Icons/car-icon.png" class="card-img-top px-4 py-1" alt="car-icon">
     <div class="card-body">
       <h5 class="card-title">Car</h5>
-      <p class="card-text" style = "text-align: justify">You can park your car at the pay parking <a href="https://www.uzleuven.be/en/contact/gasthuisberg/parking-gasthuisberg-campus#parking-west">Gasthuisberg Campus - Parking West</a> and walk to the venue. Pay attention that payment can <b>only</b> be made using a Belgian debit card or cash - unfortunately, credit cards or foreign bank cards are not accepted.</p>
+      <p class="card-text" style = "text-align: justify">You can park your car at the pay parking <a href="https://www.uzleuven.be/en/contact/gasthuisberg/parking-gasthuisberg-campus#parking-west">Gasthuisberg Campus - Parking West</a>. Exiting the car parking, follow “Blauwe Straat”, climb the 2 blocks of stairs on your left, then the entrance of ON5 will be on your left.</p>
+      <p class="card-text" style = "text-align: justify">Pay attention that payment can <b>only</b> be made using a Belgian debit card or cash.  Unfortunately, credit cards or foreign bank cards are not accepted.</p>
     </div>
   </div>
 </div>
