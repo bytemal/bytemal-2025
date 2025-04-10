@@ -13,15 +13,18 @@ layout: default
   <p>We aim to vitalize communication amongst researchers from the Netherlands, Belgium, and Germany. ByteMAL has been hosted alternately by the Universities of Maastricht, Aachen, and Liège. For its 8th anniversary event on <a href="/bytemal-2024/program">April 14</a>, a new University will add to this list and the conference will be hosted for the first time in <a href="/bytemal-2024/venue">Leuven</a>!</p>
   <p>As researchers in related fields in neighboring regions we are excited to widen our perspectives by creating the opportunity to discuss methods, tools, challenges and successes with people of similar mindset. Participants will have the opportunity to be inspired by our interesting <a href="/bytemal-2025/speakers">keynote speakers</a>, present their own work, and discuss ideas, tools and approaches with each other.</p>
 
-  <h2 class="text-center mt-5">Local Organizing Committee</h2>
-  <ul class="list-unstyled text-center">
-    <li>Liesbet Geris - ULiège/KU Leuven</li>
-    <li>Sophie Nguyen - KU Leuven</li>
-    <li>Laura Lafuente Garcia - KU Leuven</li>
-    <li>Luiz Ladeira - ULiège</li>
-    <li>Bernard Staumont - ULiège</li>
-    <li>Loïc Comeliau - ULiège</li>
-  </ul>
+  <br>
+  <p style="text-align: justify">
+    <h2><b>Local Organizing Committee</b></h2>
+    <ul class="list-unstyled">
+      <li>Liesbet Geris - ULiège/KU Leuven</li>
+      <li>Sophie Nguyen - KU Leuven</li>
+      <li>Laura Lafuente Garcia - KU Leuven</li>
+      <li>Luiz Ladeira - ULiège</li>
+      <li>Bernard Staumont - ULiège</li>
+      <li>Loïc Comeliau - ULiège</li>
+    </ul>
+  </p>
 
   <br>
   <p style="text-align: justify">
