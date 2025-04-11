@@ -19,7 +19,7 @@ layout: default
     <ul class="list-unstyled">
       <li>Liesbet Geris - ULiège/KU Leuven</li>
       <li>Sophie Nguyen - KU Leuven</li>
-      <li>Laura Lafuente Garcia - KU Leuven</li>
+      <li>Laura Lafuente-Gracia - KU Leuven</li>
       <li>Luiz Ladeira - ULiège</li>
       <li>Bernard Staumont - ULiège</li>
       <li>Loïc Comeliau - ULiège</li>
