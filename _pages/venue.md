@@ -7,6 +7,12 @@ carousels:
     - image: /bytemal-2025/images/location/location1.jpg
     - image: /bytemal-2025/images/location/location2.png
     - image: /bytemal-2025/images/location/bustovenue.png
+    - image: /bytemal-2025/images/location/bus-indication-1.png
+    - image: /bytemal-2025/images/location/bus-indication-2.png
+    - image: /bytemal-2025/images/location/bus-indication-3.png
+    - image: /bytemal-2025/images/location/car-indication-1.png
+    - image: /bytemal-2025/images/location/car-indication-2.png
+    - image: /bytemal-2025/images/location/car-indication-3.png
 ---
 
 <div class="col-sm-12 px-3">
@@ -22,36 +28,6 @@ carousels:
     </p>
     <hr>
     {% include carousel.html height="50" unit="%" duration="7" number="1" %}
-    <br>
-      <!-- Slideshow container -->
-    <div class="slideshow-container">
-      <!-- Full-width images with number and caption text -->
-      <div class="mySlides fade">
-        <div class="numbertext">1 / 3</div>
-        <img src="/bytemal-2025/images/location/car-indication-1.jpg" style="width:100%">
-        <div class="text">Caption Text</div>
-      </div>
-      <div class="mySlides fade">
-        <div class="numbertext">2 / 3</div>
-        <img src="/bytemal-2025/images/location/car-indication-2.jpg" style="width:100%">
-        <div class="text">Caption Two</div>
-      </div>
-      <div class="mySlides fade">
-        <div class="numbertext">3 / 3</div>
-        <img src="/bytemal-2025/images/location/car-indication-3.jpg" style="width:100%">
-        <div class="text">Caption Three</div>
-      </div>
-      <!-- Next and previous buttons -->
-      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-      <a class="next" onclick="plusSlides(1)">&#10095;</a>
-    </div>
-    <br>
-    <!-- The dots/circles -->
-    <div style="text-align:center">
-      <span class="dot" onclick="currentSlide(1)"></span>
-      <span class="dot" onclick="currentSlide(2)"></span>
-      <span class="dot" onclick="currentSlide(3)"></span>
-    </div> 
   </div>
 </div>
 	  
@@ -95,34 +71,5 @@ carousels:
       <p class="card-text" style = "text-align: justify">You can park your car at the pay parking <a href="https://www.uzleuven.be/en/contact/gasthuisberg/parking-gasthuisberg-campus#parking-west" target="_blank">Gasthuisberg Campus - Parking West</a>. Exiting the car parking, follow <b>"Blauwe Straat"</b>, climb the 2 blocks of stairs on your left, then the entrance of ON5 will be on your left.</p>
       <p class="card-text" style = "text-align: justify">Pay attention that payment can <b>only</b> be made using a Belgian debit card or cash.  Unfortunately, credit cards or foreign bank cards are not accepted.</p>
     </div>
-    <!-- Slideshow container -->
-    <div class="slideshow-container">
-      <!-- Full-width images with number and caption text -->
-      <div class="mySlides fade">
-        <div class="numbertext">1 / 3</div>
-        <img src="/bytemal-2025/images/location/car-indication-1.jpg" style="width:20%">
-        <div class="text">Caption Text</div>
-      </div>
-      <div class="mySlides fade">
-        <div class="numbertext">2 / 3</div>
-        <img src="/bytemal-2025/images/location/car-indication-2.jpg" style="width:20%">
-        <div class="text">Caption Two</div>
-      </div>
-      <div class="mySlides fade">
-        <div class="numbertext">3 / 3</div>
-        <img src="/bytemal-2025/images/location/car-indication-3.jpg" style="width:20%">
-        <div class="text">Caption Three</div>
-      </div>
-      <!-- Next and previous buttons -->
-      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-      <a class="next" onclick="plusSlides(1)">&#10095;</a>
-    </div>
-    <br>
-    <!-- The dots/circles -->
-    <div style="text-align:center">
-      <span class="dot" onclick="currentSlide(1)"></span>
-      <span class="dot" onclick="currentSlide(2)"></span>
-      <span class="dot" onclick="currentSlide(3)"></span>
-    </div> 
   </div>
 </div>
